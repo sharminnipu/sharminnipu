@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there,It's me Sharmin 👋
 
-<!--
-**sharminnipu/sharminnipu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![HitCount](http://hits.dwyl.com/sharminnipu/sharminnipu.svg)](http://hits.dwyl.com/sharminnipu/sharminnipu)
 
-Here are some ideas to get you started:
+Gist About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm a passonate Android App Developer
+- 🌱 Learing everyday,currently learning to master GraphQL n Flutter
+- 👯 I’m always looking  for challenging work opprotunity ahead.
+- 🤔 Activity,in making something new.
+- 📫 How to reach me : <a href="mailto:sharminnipu41@gmail.com">Let's get in touch!</a>
+
+###
+
+I strongly belive we the professoinals of tech industry need to learn and innovate. There is constant change in the technologies in the tech market  we need to update ourselves with. The only thing that is constant change . I wolud call myself an intersection of developer and designer. Currently,I am playing with Adobe XD and Android Studio. Its the place where I stay focuse on.I love trying out new technologies and update with modern tools helping our live more easier.
+
+Happy Coding !!
+
+
