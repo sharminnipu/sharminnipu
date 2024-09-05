@@ -5,10 +5,11 @@
 Gist About me
 
 - 🔭 I'm a passonate Android App Developer
-- 🌱 Learing everyday,currently learning to master GraphQL n Flutter
+-     Recently I found my  interest in Data science.
+- 🌱 Learing everyday,currently learning to master Machine Learning,AI,Deep Learning.
 - 👯 I’m always looking  for challenging work opprotunity ahead.
 - 🤔 Activity,in making something new.
-- 📫 How to reach me : <a href="mailto:sharminnipu41@gmail.com">Let's get in touch!</a>
+- 📫 How to reach me : <a href="mailto:nipusharmin41@gmail.com">Let's get in touch!</a>
 
 ###
 
